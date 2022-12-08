@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96d36be6-1727-41fd-8d78-8303f5e2fce2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../tp1/out/production/tp1/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tp1/out/production/tp1/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tp1/out/production/tp1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tp1/out/production/tp1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tp1/src/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tp1/src/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tp1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tp1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2I0IWd603GAHeT6OoHRx6Ev5OBF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -25,7 +23,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Reseau/TP3/Client"
+    "last_opened_file_path": "C:/Users/max_m/OneDrive/Bureau/Cours bart/Automne 2022/reseau/TP3",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -38,5 +37,21 @@
       <updated>1669312109350</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
   </component>
 </project>
